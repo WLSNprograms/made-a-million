@@ -1,39 +1,95 @@
 {
     "gentry":{
-        "bezos":{
+        "jeff bezos":{
             "IPS":3800,
             "NW2000":0,
             "NW2026":0,
             "TSL":0,
             "MILLION-COUNT":0
         },
-        "zuckerberg":{
+        "mark zuckerberg":{
             "IPS":470,
             "NW2000":0,
             "NW2026":0,
             "TSL":0,
             "MILLION-COUNT":0
         },
-        "bloomberg":{
+        "michael bloomberg":{
             "IPS":317,
             "NW2000":0,
             "NW2026":0,
             "TSL":0,
             "MILLION-COUNT":0
         },
-        "ellison":{
+        "larry ellison":{
             "IPS":1900,
             "NW2000":0,
             "NW2026":0,
             "TSL":0,
             "MILLION-COUNT":0
         },
-        "musk":{
+        "elon musk":{
             "IPS":4500,
             "NW2000":0,
             "NW2026":0,
             "TSL":0,
             "MILLION-COUNT":0
-        }
+        },
+        "hasan piker":{
+            "IPS":0.1,
+            "NW2000":0,
+            "NW2026":0,
+            "TSL":0,
+            "MILLION-COUNT":0
+        },
+        "jay z":{
+            "IPS":100,
+            "NW2000":0,
+            "NW2026":0,
+            "TSL":0,
+            "MILLION-COUNT":0
+        },
+        "beyonce":{
+            "IPS":6.47,
+            "NW2000":0,
+            "NW2026":0,
+            "TSL":0,
+            "MILLION-COUNT":0
+        },
+        "bill gates":{
+            "IPS":130,
+            "NW2000":0,
+            "NW2026":0,
+            "TSL":0,
+            "MILLION-COUNT":0
+        },
+        "the waltons":{
+            "IPS":1166,
+            "NW2000":0,
+            "NW2026":0,
+            "TSL":0,
+            "MILLION-COUNT":0
+        },
+        "warren buffet":{
+            "IPS":138.63,
+            "NW2000":0,
+            "NW2026":0,
+            "TSL":0,
+            "MILLION-COUNT":0
+        },
+        "tom steyer":{
+            "IPS":1.24,
+            "NW2000":0,
+            "NW2026":0,
+            "TSL":0,
+            "MILLION-COUNT":0
+        },
+        "The working class":{
+            "IPS":1006944.44,
+            "NW2000":0,
+            "NW2026":0,
+            "TSL":0,
+            "MILLION-COUNT":0
+        } 
     }
 }

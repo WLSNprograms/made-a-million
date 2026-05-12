@@ -49,7 +49,12 @@ window.addEventListener("load", (event) => {
                 value["TSL"] = value["TSL"] - 1000000
                 value["MILLION-COUNT"] += 1
                 let millionCount = gentry.querySelector("p")
-                millionCount.textContent = `I've made ${value["MILLION-COUNT"]} million since you loaded this page 🙃`
+                if(key === "The working class"){
+                    millionCount.textContent = `We've made ${value["MILLION-COUNT"]} million since you loaded this page! Think of all the ways we could make life better for everyone.`
+                    progress.style.setProperty('background-color','lightgreen')
+                } else {
+                    millionCount.textContent = `I've made ${value["MILLION-COUNT"]} million since you loaded this page 🙃`
+                }
             }
              progress.style.setProperty('width',`${value["TSL"] / 1000000 * 100}%`)
         }
