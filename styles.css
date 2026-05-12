@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.millionare-tracker {
+    margin:1px;
+    border-radius: 5px;
+}
+
+.progress {
+    background-color: lightgray;
+    height:10px;
+    width: 1000px;
+    border-radius: 5px;
+}
+
+ .progress > div {
+    background-color: red;
+    height:10px;
+    border-radius: 5px;
+}
+
+#gentry {
+
+}
